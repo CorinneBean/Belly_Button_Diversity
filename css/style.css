@@ -1,0 +1,16 @@
+
+  .jumbotron {
+    background-image: url("../images/Microbes.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+  }
+
+  body {
+    color-scheme: white;
+    background-color: darkseagreen;
+  }
+
+  h1 {
+    color: white;
+  }
