@@ -12,9 +12,9 @@ Using my knowledge of JavaScript, Plotly, and D3.js, I created a horizontal bar 
 
 My code includes the following:
 
-*Code is written to create the arrays when a sample is selected from the dropdown menu
+- Code is written to create the arrays when a sample is selected from the dropdown menu
 
-*Code is written to create the trace object in the buildCharts() function, and it contains the following:
+- Code is written to create the trace object in the buildCharts() function, and it contains the following:
 
 *The y values are the otu_ids in descending order
 *The x values are the sample_values in descending order
