@@ -11,11 +11,14 @@ This assignment has three graded deliverables. The deliverables are as follows:
 Using my knowledge of JavaScript, Plotly, and D3.js, I created a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage.
 
 My code includes the following:
+
 *Code is written to create the arrays when a sample is selected from the dropdown menu
-..*Code is written to create the trace object in the buildCharts() function, and it contains the following:
-...*The y values are the otu_ids in descending order
-...*The x values are the sample_values in descending order
-...*The hover text is the otu_labels in descending order.
+
+*Code is written to create the trace object in the buildCharts() function, and it contains the following:
+
+*The y values are the otu_ids in descending order
+*The x values are the sample_values in descending order
+*The hover text is the otu_labels in descending order.
 
 ### 2. Deliverable 2
 ------
