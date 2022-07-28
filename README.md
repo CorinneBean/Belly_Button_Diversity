@@ -25,11 +25,17 @@ My code includes the following:
 Using my knowledge of JavaScript, Plotly, and D3.js, I created a bubble chart that will display the following when an individual’s ID is selected from the dropdown menu webpage:
 
 My code includes the following:
+
 *The code for the trace object in the buildCharts(); function does the following:
+
 ...* Sets the otu_ids as the x-axis values
+
 ...* Sets the sample_values as the y-axis values
+
 ...* Sets the otu_labels as the hover-text values
+
 ...* Sets the sample_values as the marker size
+
 ...* Sets the otu_ids as the marker colors
 
 The code for the layout in the buildCharts(); function does the following:
